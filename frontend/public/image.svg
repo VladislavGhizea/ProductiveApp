@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="900" height="900" viewBox="0 0 1100 1300" xml:space="preserve">
+    <desc>Created with Fabric.js 5.2.4</desc>
+    <defs>
+    </defs>
+    <g transform="matrix(1 0 0 1 540 540)" id="2a50a723-6cfb-4f65-947a-c894577239e3">
+        <rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke" x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+    </g>
+    <g transform="matrix(1 0 0 1 540 540)" id="4c844cb0-c3dd-4ccd-b689-f657d722f670">
+    </g>
+    <g transform="matrix(1 0 0 1 984.02 359.91)">
+        <radialGradient id="SVGID_11" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-44500.33 30015.85 -28246.06 -41876.51 -34960.8 -5511.6)" cx="0" cy="0" r="1" fx="0" fy="0">
+            <stop offset="0%" style="stop-color:rgb(255,60,172);stop-opacity: 1"/>
+            <stop offset="50%" style="stop-color:rgb(120,75,160);stop-opacity: 1"/>
+            <stop offset="100%" style="stop-color:rgb(43,134,197);stop-opacity: 1"/>
+        </radialGradient>
+        <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_11); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" transform=" translate(-1001.89, -329.3)" d="M 753.171 378.878 C 724.881 299.686 748.636 243.431 824.437 210.113 C 900.237 176.795 966.999 135.262 1024.72 85.5145 C 1082.44 35.767 1137.27 39.0172 1189.2 95.265 C 1241.14 151.513 1265.33 210.726 1261.8 272.905 C 1258.26 335.084 1250.9 402.219 1239.74 474.312 C 1228.58 546.404 1184.53 589.314 1107.6 603.039 C 1030.67 616.765 959.435 602.634 893.904 560.647 C 828.373 518.66 781.462 458.07 753.171 378.878 Z" stroke-linecap="round" />
+    </g>
+    <g transform="matrix(1 0 0 1 111.58 556.54)">
+        <radialGradient id="SVGID_12" gradientUnits="userSpaceOnUse" gradientTransform="matrix(55170.9 0 0 61472 27439.1 31089.6)" cx="0" cy="0" r="1" fx="0" fy="0">
+            <stop offset="0%" style="stop-color:rgb(255,60,172);stop-opacity: 1"/>
+            <stop offset="0.01%" style="stop-color:rgb(255,60,172);stop-opacity: 1"/>
+            <stop offset="50%" style="stop-color:rgb(120,75,160);stop-opacity: 1"/>
+            <stop offset="99.99%" style="stop-color:rgb(64,118,187);stop-opacity: 1"/>
+            <stop offset="100%" style="stop-color:rgb(43,134,197);stop-opacity: 1"/>
+        </radialGradient>
+        <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_12); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" transform=" translate(-129.45, -660.94)" d="M 395.5 739.5 C 424.5 839.167 389.167 907.333 289.5 944 C 189.833 980.667 95 975.833 5 929.5 C -85 883.167 -134.667 815 -144 725 C -153.333 635 -135.5 562.833 -90.5 508.5 C -45.5 454.167 4.16667 419.5 58.5 404.5 C 112.833 389.5 182.833 373.833 268.5 357.5 C 354.167 341.167 389.5 375.833 374.5 461.5 C 359.5 547.167 366.5 639.833 395.5 739.5 Z" stroke-linecap="round" />
+    </g>
+    <g transform="matrix(1 0 0 1 121.58 566.54)">
+        <radialGradient id="SVGID_13" gradientUnits="userSpaceOnUse" gradientTransform="matrix(55170.9 0 0 61472 27439.1 31089.6)" cx="0" cy="0" r="1" fx="0" fy="0">
+            <stop offset="0%" style="stop-color:rgb(255,60,172);stop-opacity: 1"/>
+            <stop offset="0.01%" style="stop-color:rgb(255,60,172);stop-opacity: 1"/>
+            <stop offset="50%" style="stop-color:rgb(120,75,160);stop-opacity: 1"/>
+            <stop offset="99.99%" style="stop-color:rgb(64,118,187);stop-opacity: 1"/>
+            <stop offset="100%" style="stop-color:rgb(43,134,197);stop-opacity: 1"/>
+        </radialGradient>
+        <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_13); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" transform=" translate(-129.45, -660.94)" d="M 395.5 739.5 C 424.5 839.167 389.167 907.333 289.5 944 C 189.833 980.667 95 975.833 5 929.5 C -85 883.167 -134.667 815 -144 725 C -153.333 635 -135.5 562.833 -90.5 508.5 C -45.5 454.167 4.16667 419.5 58.5 404.5 C 112.833 389.5 182.833 373.833 268.5 357.5 C 354.167 341.167 389.5 375.833 374.5 461.5 C 359.5 547.167 366.5 639.833 395.5 739.5 Z" stroke-linecap="round" />
+    </g>
+</svg>
