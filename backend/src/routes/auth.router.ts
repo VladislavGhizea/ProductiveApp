@@ -34,7 +34,19 @@ router.post("/register", async (req: Request, res: Response) => {
 });
 
 router.post("/login", async (req: Request, res: Response) => {
-  // Gestione del login
+  try {
+    const { username, password } = req.body;
+    const user = await User.findOne({ where: { username } });
+    if (!user || !(await comparePasswords(password, user.password))) {
+      return res.status(400).json({ message: "Invalid username or password" });
+    } else {
+      const tokens = await generateTokens(user.id);
+      return res.status(200).json({ message: "Login successful", ...tokens });
+    }
+  } catch (error: unknown) {
+    console.log(error);
+    return res.status(500).json({ message: "Internal server error" });
+  }
 });
 
 export default router;

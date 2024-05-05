@@ -28,6 +28,7 @@ User.init(
     sequelize,
     modelName: "users",
     schema: "auth",
+    timestamps: false,
   }
 );
 

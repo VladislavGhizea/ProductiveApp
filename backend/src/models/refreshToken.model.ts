@@ -5,6 +5,8 @@ class RefreshToken extends Model {
   declare token: string;
   declare accessToken: string;
   declare userId: number;
+  declare expiry: Date;
+  declare expiryAccess: Date;
 }
 
 RefreshToken.init(
@@ -20,17 +22,24 @@ RefreshToken.init(
     },
     userId: {
       type: DataTypes.UUID,
-      primaryKey: true,
       references: {
         model: "users",
         key: "id",
       },
     },
+    expiry: {
+      type: DataTypes.DATE,
+      allowNull: false,
+    },
+    expiryAccess: {
+      type: DataTypes.DATE,
+      allowNull: false,
+    },
   },
   {
     sequelize,
     modelName: "refreshToken",
-    timestamps: true,
+    timestamps: false,
     schema: "auth",
   }
 );
